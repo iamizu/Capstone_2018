@@ -85,7 +85,7 @@ Repository Contents
              . Capstone-exploratory-data-analysis-and-Modeling.ipynb
              
              
-         . Deliverables
-              . The deliverables contains the technical report and the presentation slide
+    . Deliverables
+          The deliverables contains the technical report and the presentation slide
               
               . Capstone-techinical_writting.ipynb
