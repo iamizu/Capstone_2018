@@ -2,7 +2,7 @@
 
 ## Repository Contents
 
-   * datasets
+   ## datasets
         
       * A_new10.csv
         
@@ -54,7 +54,7 @@
         
       * Structural-Measures-Hospital.csv
         
-   * codes
+   ## codes
        
       * Capstone-data-collecting-and-cleaning.ipynb
        
@@ -62,9 +62,9 @@
        
          
          
-    * Datasets
+   ## Datasets
    
-         Initial datasets were gotten from Medicare.gov, datausa.oi, healthdata.gov and found in the datasets directory.
+         Initial datasets were gotten from **Medicare.gov**, datausa.oi, healthdata.gov and found in the datasets directory.
          
          * hospi-group: Is concerned with inpatient prospective payment system provider sumarry for the top diagnosis related groups, st2 datset was generated from it. 
             
@@ -77,7 +77,7 @@
          * Generated datasets used for model fitting and testing are found in the same directory named datasets and datasets used for EDA   are st2, st3, df4 and df_xx which was generated from df_x dataset.
         
         
-        * Code
+   ## Code
              * Project code is broken into two jupyter notebooks that can be found in the code directory. The dataset used exist in the datasets directory and do not need to be regenerated.
              
              * Capstone-data-collecting-and-cleaning.ipynb
@@ -85,7 +85,7 @@
              * Capstone-exploratory-data-analysis-and-Modeling.ipynb
              
              
-    * Deliverables
+   ## Deliverables
          
          The deliverables contains the technical report and the presentation slide
               
