@@ -2,57 +2,57 @@
 
 ## Repository Contents
 
-    * datasets
+   * datasets
         
-       * **A_new10.csv**
+      * A_new10.csv
         
-       * **A_neww3.csv**
+      * A_neww3.csv**
         
-       * A_neww4.csv
+      * A_neww4.csv
         
-       * A_train3.csv
+      * A_train3.csv
         
-       * children_in_poverty.csv
+      * children_in_poverty.csv
         
-       * ddf.csv
+      * ddf.csv
         
-       * df.csv
+      * df.csv
         
-       * df_x.csv
+      * df_x.csv
         
-       * dff_2.csv
+      * dff_2.csv
         
-       * dfff.csv
+      * dfff.csv
         
-       * dfof.csv
+      * dfof.csv
         
-       * Education.xls
+      * Education.xls
         
-       * median-household.csv
+      * median-household.csv
         
-       * medicare-bene-state.csv
+      * medicare-bene-state.csv
         
-       * PopulationEstimates.xls
+      * PopulationEstimates.xls
         
-       * PovertyEstimates.xls
+      * PovertyEstimates.xls
         
-       * poverty-rate-state.csv
+      * poverty-rate-state.csv
         
-       * smoking-State.csv
+      * smoking-State.csv
         
-       * st2.csv
+      * st2.csv
         
-       * st3.csv
+      * st3.csv
         
-       * trainX.csv
+      * trainX.csv
         
-       * Medicare Hospital Spending per Patient - Hospital.csv
+      * Medicare Hospital Spending per Patient - Hospital.csv
 
-       * Medicare Hospital Spending by Claim.csv
+      * Medicare Hospital Spending by Claim.csv
         
-       * Medicare_hospital_spending_per_patient__Medicare_Spending_per_Beneficiary____Additional_Decimal_Places.csv
+      * Medicare_hospital_spending_per_patient__Medicare_Spending_per_Beneficiary____Additional_Decimal_Places.csv
         
-       * Structural-Measures-Hospital.csv
+      * Structural-Measures-Hospital.csv
         
    * codes
        
