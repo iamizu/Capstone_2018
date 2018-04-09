@@ -86,6 +86,7 @@
              
              
     * Deliverables
+         
          The deliverables contains the technical report and the presentation slide
               
         * Capstone-techinical_writting.ipynb
